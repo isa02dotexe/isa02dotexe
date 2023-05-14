@@ -14,8 +14,8 @@ I really like SpongeBob songs
 
 
 
-![Isabelle GitHub stats](https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&layout=compact)](https://github.com/isa02dotexe/github-readme-stats)
+![Isabelle GitHub stats](https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=gruvbox) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&layout=gruvbox)](https://github.com/isa02dotexe/github-readme-stats)
 
 
 More about me, visit my [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellecoimbra/)](https://www.linkedin.com/in/isabellecoimbra/) or [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/isa02dotexe)](https://t.me/isa02dotexe)
