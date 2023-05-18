@@ -2,7 +2,7 @@
 
 :house_with_garden: I’m from Brazil. <br>
 :smiling_face_with_three_hearts: I really like SpongeBob songs <br>
-:books: Software Engineer Student
+:books: Software Engineer Student <br>
 :computer: DevOps | Cloud | Infra 
 
 
