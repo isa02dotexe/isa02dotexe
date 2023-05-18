@@ -28,3 +28,6 @@ Minhas tags:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&layout=transparent)](https://github.com/isa02dotexe/github-readme-stats)
 </div>
 
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/isa02dotexe" />
+</p>
