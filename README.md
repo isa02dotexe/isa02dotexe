@@ -8,7 +8,7 @@
 
 :chart_with_upwards_trend: Aprendendo sobre Kubernetes, Ansible, Terraform, Jenkins; Clouds AWS e Azure
 
-:musical_note: Eu realmente gosto das musicas do Bob Esponja e quebra cabeças 
+:musical_note: Músicas do Bob Esponja e montar quebra-cabeças 
 
 :calling: Contato  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellecoimbra/)](https://www.linkedin.com/in/isabellecoimbra/) [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/isa02dotexe)](https://t.me/isa02dotexe) [![Linktree Bagde](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/isa_02.exe/)](https://linktr.ee/isa_02.exe)
