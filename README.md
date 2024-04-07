@@ -6,7 +6,7 @@
 
 :computer: DevOps | Cloud | Infra 
 
-:chart_with_upwards_trend: Aprendendo sobre Kubernetes, Ansible, Terraform, Jenkins; Clouds AWS e Azure
+:chart_with_upwards_trend: Aprendendo sobre Kubernetes, Terraform, Clouds AWS
 
 :musical_note: Músicas do Bob Esponja e montar quebra-cabeças 
 
