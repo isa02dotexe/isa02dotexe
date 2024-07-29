@@ -23,8 +23,10 @@ Minhas tags:
 
 <div align="center">
 
-![Isabelle GitHub stats](https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=buefy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isa02dotexe&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&layout=compact&theme=buefy)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=isa02dotexe&theme=buefy)](https://git.io/streak-stats)
 
+[![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
