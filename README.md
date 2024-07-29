@@ -50,8 +50,8 @@ Minhas tags:
 
 [![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Visitor number: 
 
+*V I S I T O R    N U M B E R :*
 ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
 
