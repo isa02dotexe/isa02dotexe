@@ -52,3 +52,6 @@ Minhas tags:
 [![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text&height=100&width=400&size=70&font=Abel)](https://git.io/typing-svg)
+
