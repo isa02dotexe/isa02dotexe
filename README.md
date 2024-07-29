@@ -50,3 +50,5 @@ Minhas tags:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=isa02dotexe&theme=buefy)](https://git.io/streak-stats)
 
 [![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
