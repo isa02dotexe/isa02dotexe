@@ -52,6 +52,7 @@ Minhas tags:
 
 
 *V I S I T O R    N U M B E R :*
+
 ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
 
