@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+HI+THERE;&height=100&width=800&size=70&font=Abel&color=FFFFFF&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+HI+THERE;&height=150&width=800&size=70&font=Abel&color=FFFFFF&center=true)](https://git.io/typing-svg)
 
 🌱 I'm a DevOps Jr in Brazil.
 
@@ -51,6 +51,7 @@ Minhas tags:
 [![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 Visitor number: 
+
 ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
 
