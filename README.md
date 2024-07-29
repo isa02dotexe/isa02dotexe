@@ -9,15 +9,28 @@ I'm a DevOps Jr in Brazil.
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/isabellecoimbra/)   
 
+🎓 I'm a student Software Engineering's
 
-:books: Estudante de Engenharia de Software
+:pencil: I'm interested in subjects such as:
+- ***Cloud***
+- ***Infrastructure as Code***
+- ***Microservices Architecture***
 
-:computer: DevOps | Cloud | Infra 
+
+I usually work with:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,bash,gitlab,go,grafana,mysql,terraform " />
+  </a>
+</p>
+
+My IDE's favorite:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 :chart_with_upwards_trend: Aprendendo sobre Kubernetes, Terraform, Clouds AWS
 
 :musical_note: Músicas do Bob Esponja e montar quebra-cabeças 
-
 
 
 
