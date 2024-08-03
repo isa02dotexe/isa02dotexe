@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+HI+THERE;&height=150&width=800&size=70&font=Abel&color=FFFFFF&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+HI+THERE;&height=140&width=800&size=70&font=Abel&color=FFFFFF&center=true)](https://git.io/typing-svg)
 
 🌱 I'm a DevOps Jr in Brazil.
 
