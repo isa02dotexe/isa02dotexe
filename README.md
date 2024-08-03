@@ -62,18 +62,6 @@ My tags:
   </a>
 </details>
 
-
-
-<div align="center">
-
-  *V I S I T O R _ N U M B E R :*
-
-  ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
-
-</div>
-
-
-
 <details>
   <summary><h2>Badges</h2></summary>
   <p>
@@ -83,3 +71,11 @@ My tags:
   </p>
 
 </details>
+
+<div align="center">
+
+  *V I S I T O R _ N U M B E R :*
+
+  ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
+
+</div>
