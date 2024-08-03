@@ -77,14 +77,14 @@ My tags:
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
 
   <!-- Stats e Streak -->
-  <div style="flex: 1; min-width: 200px;">
+  <div style="flex: 1; min-width: 100px;">
       <a href="https://github.com/isa02dotexe">
         <img alt="Isabelle Coimbra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=midnight-purple" style="width: 50%; height: auto;" />
       </a>
       <a href="https://git.io/streak-stats">
         <img alt="Isabelle Coimbra's GitHub Streak" src="https://streak-stats.demolab.com/?user=isa02dotexe&theme=midnight-purple" style="width: 50%; height: auto;" />
       </a>
-    </div>
+  </div>
 
   <!-- Top Langs -->
   <div style="flex: 1; min-width: 100px;">
