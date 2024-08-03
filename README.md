@@ -55,15 +55,15 @@ My tags:
   <summary><h2>Stats</h2></summary>
 
   
-  <a href="https://github.com/isa02dotexe"><img alt="Isabelle Coimbra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=midnight-purple" height="192px"/></a>
+  <a href="https://github.com/isa02dotexe"><img alt="Isabelle Coimbra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=midnight-purple" height="200px"/></a>
 
   
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&theme=midnight-purple" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&theme=midnight-purple" height="250px"/></a>
 
  
-  <a href="https://git.io/streak-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://streak-stats.demolab.com/?user=isa02dotexe&theme=midnight-purple" height="192px"/></a>
+  <a href="https://git.io/streak-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://streak-stats.demolab.com/?user=isa02dotexe&theme=midnight-purple" height="300px"/></a>
 
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=nightowl" height="192px"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=nightowl" height="350px"/></a>
 
 </details>
