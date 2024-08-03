@@ -63,10 +63,12 @@ My tags:
 </details>
 
 
-*V I S I T O R _ N U M B E R :*
+
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
+  *V I S I T O R _ N U M B E R :*
+
+  ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
 </div>
 
