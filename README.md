@@ -76,7 +76,7 @@ My tags:
   <summary><h2>Stats</h2></summary>
 
   <!-- Adicionando um contêiner para organizar os elementos -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
 
   <!-- Stats e Streak -->
   <div style="flex: 1; min-width: 100px;">
