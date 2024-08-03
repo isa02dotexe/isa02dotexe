@@ -38,14 +38,64 @@ My tags:
 
 ![Isa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=isa02dotexe&theme=soft-green)](https://git.io/streak-stats)
 
 [![Isa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-*V I S I T O R    N U M B E R :*
+*V I S I T O R _ N U M B E R :*
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
+</div>
 
+
+<details> 
+  <summary><h2>Stats</h2></summary>
+
+  #[Isa's GitHub stats]
+  <a href="https://github.com/isa02dotexe"><img alt="Isabelle Coimbra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=midnight-purple" height="192px"/></a>
+
+  #[Top Langs]
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&theme=midnight-purple" height="192px"/></a>
+
+  #[GitHub Streak]
+  <a href="https://git.io/streak-stats"><img alt="Isabelle Coimbra's Top Langs" src="https://streak-stats.demolab.com/?user=isa02dotexe&theme=midnight-purple" height="192px"/></a>
+
+  [Isa's github activity graph]
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=nightowl" height="192px"/></a>
+
+</details>
+
+
+
+<details>
+  <summary><h2>Stats</h2></summary>
+
+  <!-- Adicionando um contêiner para organizar os elementos -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+
+    <!-- Stats e Streak -->
+    <div style="flex: 1; min-width: 300px;">
+      <a href="https://github.com/isa02dotexe">
+        <img alt="Isabelle Coimbra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isa02dotexe&show_icons=true&theme=midnight-purple" style="width: 100%; height: auto;" />
+      </a>
+      <a href="https://git.io/streak-stats">
+        <img alt="Isabelle Coimbra's GitHub Streak" src="https://streak-stats.demolab.com/?user=isa02dotexe&theme=midnight-purple" style="width: 100%; height: auto;" />
+      </a>
+    </div>
+
+    <!-- Top Langs -->
+    <div style="flex: 1; min-width: 300px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa02dotexe&theme=midnight-purple" style="width: 100%; height: auto;" />
+      </a>
+    </div>
+  </div>
+
+  <!-- GitHub Activity Graph abaixo dos outros elementos -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Isabelle Coimbra's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=nightowl" style="width: 100%; height: auto;" />
+  </a>
+</details>
