@@ -51,6 +51,7 @@ My tags:
 </div>
 
 
+<div align="center">
 <details> 
   <summary><h2>Stats</h2></summary>
 
@@ -67,3 +68,4 @@ My tags:
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isabelle Coimbra's Top Langs" src="https://github-readme-activity-graph.vercel.app/graph?username=isa02dotexe&theme=nightowl" height="350px"/></a>
 
 </details>
+</div>
