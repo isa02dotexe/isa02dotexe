@@ -74,5 +74,12 @@ My tags:
 
 
 
+<details>
+  <summary><h2>Badges</h2></summary>
+  <p>
+  <a href="https://www.credly.com/badges/dd8d7e2e-4fe3-4741-b6b2-ecd29bf8b926/public_url">
+        <img alt="Isa's AWS Pratitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="150px"/> 
+  </a>
+  </p>
 
-
+</details>
