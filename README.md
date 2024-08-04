@@ -80,4 +80,3 @@ My tags:
 
 </div>
 
-![snake animation](https://github.com/<isa02dotexe>/<isa02dotexe>/blob/output/github-contribution-grid-snake2.svg)
