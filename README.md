@@ -79,3 +79,5 @@ My tags:
   ![Visitor Count](https://profile-counter.glitch.me/{isa02dotexe}/count.svg)
 
 </div>
+
+![snake animation](https://github.com/<isa02dotexe>/<isa02dotexe>/blob/output/github-contribution-grid-snake2.svg)
