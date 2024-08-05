@@ -68,6 +68,9 @@ My tags:
   <a href="https://www.credly.com/badges/dd8d7e2e-4fe3-4741-b6b2-ecd29bf8b926/public_url">
         <img alt="Isa's AWS Pratitioner" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="150px"/> 
   </a>
+  <a href="https://www.credly.com/badges/8e63543a-650d-4563-ac32-c98a3b8450e3/public_url">
+        <img alt="Isa's AWS Pratitioner" src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="150px"/> 
+  </a>
   </p>
 
 </details>
