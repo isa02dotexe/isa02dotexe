@@ -23,7 +23,7 @@ I usually work with:
   </a>
 </p>
 
-My IDE's favorite:
+My Editor's favorite:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
